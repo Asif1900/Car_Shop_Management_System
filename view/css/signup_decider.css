@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center; /* Center the cards horizontally */
+}
+
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the cards vertically */
+}
+
+.card {
+    margin: 5%;
+}
+
+.card-body {
+    margin: 0% 0% 0% 3%;
+    padding: 6% 0%;
+}

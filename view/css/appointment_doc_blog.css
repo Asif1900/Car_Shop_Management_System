@@ -1,0 +1,27 @@
+/* CSS styles */
+.horizontal-scroll-select {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+/* Add additional styling for the select element as needed */
+
+/* CSS styles */
+.doc-cards-container {
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+}
+
+.doc-card {
+    display: inline-block;
+    width: 18rem;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.doc-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add additional styling for card-body, card-title, and card-text as needed */
